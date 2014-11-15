@@ -30,7 +30,13 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal
 	moment at which this happens is sometimes called a tick (in other words,
 	each generation is a pure function of the preceding one). The rules
 	continue to be applied repeatedly to create further generations.
-
+* Window is 30 by 30
+* Live cells are rocks
+* Dead cells are blank
+* Patterns are chosen in code
+* It runs infinitely
+* Time interval is 1 second
+* It does not wrap around it just doesnt calculate past the 17 by 17
 
 Nonfunctional Requirements:
 
